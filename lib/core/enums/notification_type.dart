@@ -1,0 +1,4 @@
+enum NotificationType { 
+  SUBSECRIPTION,
+   CHANGECOLOR
+    }
